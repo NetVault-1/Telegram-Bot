@@ -1,0 +1,7 @@
+# ignore all real env files
+.env
+*.env
+.env.*
+
+# but allow the example template
+!/.env.example
